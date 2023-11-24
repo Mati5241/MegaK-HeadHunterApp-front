@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/megak-headhunterapp-front.iml" filepath="$PROJECT_DIR$/.idea/megak-headhunterapp-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MegaK-HeadHunterApp-Front.iml" filepath="$PROJECT_DIR$/.idea/MegaK-HeadHunterApp-Front.iml" />
     </modules>
   </component>
 </project>

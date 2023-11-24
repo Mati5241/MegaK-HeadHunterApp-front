@@ -4,7 +4,7 @@ export function App() {
   return (
     <div className="App">
 
-      <h1>MegaK-HeadHunterApp</h1>
+      <img src="logo.webp" alt="megaK"/>
 
     </div>
   );
