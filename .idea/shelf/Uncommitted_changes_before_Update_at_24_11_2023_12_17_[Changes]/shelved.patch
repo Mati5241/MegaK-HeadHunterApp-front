@@ -1,0 +1,41 @@
+Index: src/components/Header/header.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Header/header.css b/src/components/Header/Header.css
+rename from src/components/Header/header.css
+rename to src/components/Header/Header.css
+--- a/src/components/Header/header.css	(revision bc06086c971492c3570f35fb310edc108305ea78)
++++ b/src/components/Header/Header.css	(date 1700824560831)
+@@ -1,0 +1,30 @@
++#header {
++    background-color: #1E1E1F;
++    width: 100%;
++    height: 70px;
++    display: flex;
++    /*margin-top: 5px;*/
++    color: #FAFAFA;
++}
++
++#header-inside {
++    background-color: #1E1E1F;
++    width: 65%;
++    height: 60px;
++    margin: auto;
++
++}
++
++
++#logo {
++    float: left;
++    height: 100%;
++
++}
++
++
++#user {
++    float: right;
++    line-height: 60px;
++
++}
