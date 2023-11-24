@@ -1,0 +1,30 @@
+#header {
+    background-color: #1E1E1F;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    /*margin-top: 5px;*/
+    color: #FAFAFA;
+}
+
+#header-inside {
+    background-color: #1E1E1F;
+    width: 65%;
+    height: 60px;
+    margin: auto;
+
+}
+
+
+#logo {
+    float: left;
+    height: 100%;
+
+}
+
+
+#user {
+    float: right;
+    line-height: 60px;
+
+}
